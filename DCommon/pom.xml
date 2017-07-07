@@ -42,7 +42,7 @@
     <distributionManagement>
         <repository>
             <id>mvn-repo</id>
-            <url>file://E://repo</url>
+            <url>file:// /Users/dingpengfei/git/repo</url>
 
         </repository>
     </distributionManagement>

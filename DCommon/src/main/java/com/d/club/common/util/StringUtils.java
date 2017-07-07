@@ -63,14 +63,5 @@ public class StringUtils {
         return Arrays.asList(array);
     }
 
-    public static void main(String[] args) {
-//        System.out.println(isBlank("       "));
-//        System.out.println(isNotBlank(null));
-//        System.out.println(contains("abc","b1"));
-        try {
-            System.out.println(containsCount("asdasdfsdfdfasdfsd", "as"));
-        } catch (StringException e) {
-            e.printStackTrace();
-        }
-    }
+
 }
