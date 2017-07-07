@@ -42,7 +42,8 @@
     <distributionManagement>
         <repository>
             <id>mvn-repo</id>
-            <url>file://e:repo</url>
+            <url>file://E://repo</url>
+
         </repository>
     </distributionManagement>
 </project>
